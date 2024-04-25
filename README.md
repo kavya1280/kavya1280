@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya1280&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1280" /> </p>
 
 - 📫 How to reach me **knair1280@gmail.com**
-
+<img align="right" src="https://github.com/kavya1280/kavya1280/assets/160891689/c8fad229-3dd6-4298-b251-3ddca84b7b1f .png" width=40% height=40% >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/knairmca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="knairmca" height="30" width="40" /></a>
