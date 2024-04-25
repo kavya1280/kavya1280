@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya1280&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1280" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently doing MCA <br>🌱 I’m currently learning Java,Python,Laravel<br>
+🔭 I’m currently doing MCA <br>🌱 I’m currently learning Java,Python,Laravel<br>📫 How to reach me knair1280@gmail.com
 
 
 ## 🌐 Socials:
@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kavya1280&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kavya1280&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
