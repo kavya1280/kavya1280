@@ -9,7 +9,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavya1280&label=Profile%20views&color=0e75b6&style=flat" alt="kavya1280" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently doing MCA <br>🌱 I’m currently learning Java,Python,Laravel<br>📫 How to reach me knair1280@gmail.com
+🔭 I’m currently doing MCA <br>🌱 I’m currently learning Java|Python|Laravel|Microsoft Power BI|
+<br>📫 How to reach me knair1280@gmail.com
 
 
 ## 🌐 Socials:
