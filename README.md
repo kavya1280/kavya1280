@@ -10,7 +10,7 @@
 
 # 💫 About Me:
 🔭 I’m currently doing MCA <br>🌱 I’m currently learning Java|Python|Laravel|Microsoft Power BI|
-<br>📫 How to reach me - kavyaradhakrishnan1280@gmail.com
+<br>📫 How to reach me - knair1280@gmail.com
 
 
 ## 🌐 Socials:
